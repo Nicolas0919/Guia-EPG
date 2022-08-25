@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv source-info-name="IPTVBoss">
+  <channel id="LATINO_Networks_and_Sports_EPGAMC.ar">
+    <display-name>AMC SD [P&amp;S]</display-name>
+    <display-name>AMC FHD [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGAnimalPlanet.ar">
+    <display-name>ANIMAL PLANET LA FHD [CULT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGAXN.ar">
+    <display-name>AXN SD [P&amp;S]</display-name>
+    <display-name>AXN FHD (Dual Audio) [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGC5N.ar">
+    <display-name>C5N HD+ (YT) [ARG]</display-name>
+    <display-name>C5N FHD (YT) [ARG]</display-name>
+    <display-name>C5N HD [ARG]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCanal21.ar">
+    <display-name>CANAL ORBE 21 HD [ARG]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCanal26.ar">
+    <display-name>CANAL 26 NOTICIAS SD</display-name>
+    <display-name>CANAL 26 NOTICIAS HD [ARG]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCanalDeLaCiudad.ar">
+    <display-name>CANAL DE LA CIUDAD HD [ARG]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCanalRural.ar">
+    <display-name>RURAL HD [ARG]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCartoonNetwork.ar">
+    <display-name>CARTOON NETWORK ARG HD [INF]</display-name>
+    <display-name>CARTOON NETWORK LATINO SD [INF]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCinemax(Sur).ar">
+    <display-name>CINEMAX SD [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCN23.ar">
+    <display-name>CN23 HD [ARG]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCNNenEspanol.ar">
+    <display-name>CNN En Español</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGDiscoveryChannel.ar">
+    <display-name>DISCOVERY CHANNEL LA FHD [CULT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGElGarageTv.ar">
+    <display-name>Garage TV FHD (ARG) [DEP-LAT]</display-name>
+    <display-name>MEX | Garage TV</display-name>
+    <display-name>GARAGE FHD [ARG]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGFOXSportsPremium.ar">
+    <display-name>FOX SPORTS PREMIUM FHD (ARG) [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGInvestigationDiscovery.ar">
+    <display-name>INVESTIGATION DISCOVERY LA FHD [CULT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGNationalGeographic.ar">
+    <display-name>NAT GEO LA FHD [CULT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGPakapaka.ar">
+    <display-name>PAKA PAKA HD [ARG] (YT)</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <display-name>PARAMOUNT CHANNEL SD [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTelefe.ar">
+    <display-name>TELEFE SD+ [ARG]</display-name>
+    <display-name>TELEFE HD [ARG]</display-name>
+    <display-name>TELEFE SUR FHD [ARG]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTN.ar">
+    <display-name>TN HD [ARG]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGVH1MegaHits.ar">
+    <display-name>VH1 MEGAHITS HD [MUSICALES]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGVolver.ar">
+    <display-name>VOLVER HD [ARG]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTV5.ar">
+    <display-name>TV5 MONTE ARG HD [ARG]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGAmerica24.ar">
+    <display-name>AMERICA 24 SD [ARG]</display-name>
+    <display-name>AMERICA 24 FHD [ARG]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGAmericaTV.ar">
+    <display-name>AMERICA TV SD+ [ARG]</display-name>
+    <display-name>AMERICA TV HD [ARG]</display-name>
+    <display-name>AMERICA TV HD+ [PER]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCanalDeLaMusica.ar">
+    <display-name>CANAL DE LA MUSICA HD [ARG]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGDWespanol.ar">
+    <display-name>DW Español (Deutsche Welle) FHD</display-name>
+    <display-name>MEX | DW</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGHTVMusica.ar">
+    <display-name>HTV SD [MUSICALES]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGFOXSports.ar">
+    <display-name>FOX SPORTS SD (ARG) [DEP-LAT]</display-name>
+    <display-name>FOX SPORTS 1 AR HD [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGFOXSports2.ar">
+    <display-name>FOX SPORTS 2 SD (ARG) [DEP-LAT]</display-name>
+    <display-name>FOX SPORTS 2 AR FHD [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGFOXSports3.ar">
+    <display-name>FOX SPORTS 3 AR HD [DEP-LAT]</display-name>
+    <display-name>FOX SPORTS 3 SD (ARG) [M-SPORT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGDIRECTVSports2.ar">
+    <display-name>DIRECTV SPORTS 2 HD (ARG) [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGDIRECTVSports+.ar">
+    <display-name>DIRECTV SPORTS + (ARG) [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGESPN3.ar">
+    <display-name>ESPN 3 SD (ARG) [DEP-LAT]</display-name>
+    <display-name>ESPN 3 HD (ARG) [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGBolivision.bo">
+    <display-name>BOL | BOLIVISION SD</display-name>
+    <display-name>BOL | BOLIVIA TV 7*d*2</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGBoliviaTV.bo">
+    <display-name>BOL | BOLIVIA TV HD</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGUNITEL.bo">
+    <display-name>BOL | UNITEL</display-name>
+    <display-name>BOL | ALEGRIA TV</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGRedUno.bo">
+    <display-name>BOL | RED UNO</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGATBRedNacional.bo">
+    <display-name>BOL | ATB</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGNickelodeonLACentral.bo">
+    <display-name>NICK HD [INF]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTVPeru.bo">
+    <display-name>TV PERU HD [PER]</display-name>
+    <display-name>TV PERU NOTICIAS [PER]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGRecord.bo">
+    <display-name>BOL | RED ADvenir</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGDiscoveryCivilization.cl">
+    <display-name>DISCOVERY CIVILIZATION SD [CULT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGUnicable.cl">
+    <display-name>MEX | Unicable HD</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGETCTV.cl">
+    <display-name>ETC TV [CHL]</display-name>
+    <display-name>CHL | REC TV HD</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTVN.cl">
+    <display-name>CHL | TVN HD+</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTeletrak.cl">
+    <display-name>TELETRAK HD [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGMega.cl">
+    <display-name>CHL | MEGA HD+</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGLaRed.cl">
+    <display-name>CHL | LA RED HD</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCanal13.cl">
+    <display-name>CHL | CANAL 13</display-name>
+    <display-name>CHL | CANAL 13c</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPG24Horas.cl">
+    <display-name>CHL | 24 HORAS HD</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTNTSports3.cl">
+    <display-name>TNT Sports 3 SD (Chile) [DEP-LAT]</display-name>
+    <display-name>TNT SPORTS 3 HD (CHILE) [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTNTSports2.cl">
+    <display-name>TNT Sports 2 SD (Chile) [DEP-LAT]</display-name>
+    <display-name>TNT SPORTS 2 HD (CHILE) [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTNTSports.cl">
+    <display-name>TNT Sports SD (Chile) [DEP-LAT]</display-name>
+    <display-name>TNT Sports HD (Chile) [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTVChile.cl">
+    <display-name>CHL | TV CHILE HD</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCanal13i.cl">
+    <display-name>CHL | CANAL 13i</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTNTSports2.cl">
+    <display-name>TNT Sports 2 SD (Chile) [DEP-LAT]</display-name>
+    <display-name>TNT SPORTS 2 HD (CHILE) [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTNTSports3.cl">
+    <display-name>TNT Sports 3 SD (Chile) [DEP-LAT]</display-name>
+    <display-name>TNT SPORTS 3 HD (CHILE) [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGFOXSports1HD(CHI).cl">
+    <display-name>FOX SPORTS 1 HD (CHILE) [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGESPNChileHD.cl">
+    <display-name>ESPN SD (CHILE) [DEP-LAT] (T)</display-name>
+    <display-name>ESPN HD (CHILE) [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCanalCapital.co">
+    <display-name>CANAL CAPITAL HD [COL]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCanalInstitucional.co">
+    <display-name>CANAL INSTITUCIONAL HD [COL]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCanalTR3CE.co">
+    <display-name>CANAL TRECE HD [COL]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCaracol.co">
+    <display-name>CARACOL SD [COL]</display-name>
+    <display-name>CARACOL HD [COL]</display-name>
+    <display-name>CARACOL HD (Opción 2) [COL]</display-name>
+    <display-name>CARACOL HD (Opción 3) [COL]</display-name>
+    <display-name>CARACOL FHD [COL]</display-name>
+    <display-name>CARACOL FHD (Opción 2) [COL]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCaracolTVInternacional.co">
+    <display-name>CARACOL INTERNACIONAL FHD [COL]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCinecanal.co">
+    <display-name>CINECANAL SD [P&amp;S]</display-name>
+    <display-name>CINECANAL FHD (Dual Audio) [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCitytv.co">
+    <display-name>CITY TV FHD [COL]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGConcertChannel.co">
+    <display-name>CONCERT CHANNEL FHD [MUSICALES]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCosmovision.co">
+    <display-name>COSMOVISION HD [COL]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGElTiempoTelevision.co">
+    <display-name>EL TIEMPO HD [COL]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGESPN.co">
+    <display-name>ESPN HD (COL) [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGNTN24.co">
+    <display-name>NTN 24 HD [COL]</display-name>
+    <display-name>NTN 24 SD+ [COL]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGRCN.co">
+    <display-name>RCN HD [COL]</display-name>
+    <display-name>RCN SD+ [COL]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGRCNNovelas.co">
+    <display-name>RCN NOVELAS HD [COL]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGSenalColombia.co">
+    <display-name>SENAL COLOMBIA HD [COL]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTeleantioquia.co">
+    <display-name>TELEANTOQUIA HD [COL]</display-name>
+    <display-name>TELEANTOQUIA 2 HD [COL]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTelecafe.co">
+    <display-name>TELECAFE HD [COL]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTelecaribe.co">
+    <display-name>TELECARIBE HD [COL]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTelemedellin.co">
+    <display-name>TELEMEDELLIN HD [COL]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTelepacifico.co">
+    <display-name>TELEPACIFICO HD [COL]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTvAgro.co">
+    <display-name>TV AGRO HD [COL]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGVH1ClassicUSA.co">
+    <display-name>VH1 CLASSIC HD [MUSICALES]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGDIRECTVSports(COL).co">
+    <display-name>DIRECTV SPORTS HD (COL) [DEP-LAT]</display-name>
+    <display-name>DIRECTV SPORTS HD (ECU) [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGDIRECTVSports2.co">
+    <display-name>DIRECTV SPORTS 2 HD (COL) [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGDIRECTVSports+.co">
+    <display-name>DIRECTV SPORTS + FHD (COL) [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGWinSportsPremium.co">
+    <display-name>WIN SPORTS PLUS ONLINE SD (CO) [DEP-LAT]</display-name>
+    <display-name>WIN SPORTS PLUS SD (CO) [DEP-LAT]</display-name>
+    <display-name>WIN SPORTS PLUS ONLINE HD [DEP-LAT]</display-name>
+    <display-name>WIN SPORTS PLUS ONLINE FHD [DEP-LAT]</display-name>
+    <display-name>WIN SPORTS PLUS HD [DEP-LAT]</display-name>
+    <display-name>WIN SPORTS PLUS FHD [DEP-LAT]</display-name>
+    <display-name>WIN SPORTS PLUS FHD (Opción 2) [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGESPNColombiaHD.co">
+    <display-name>ESPN SD (COL) [DEP-LAT] (T)</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGWinSportsHD(COL).co">
+    <display-name>WIN SPORTS ONLINE SD (CO) [DEP-LAT]</display-name>
+    <display-name>WIN SPORTS SD (COL) [DEP-LAT]</display-name>
+    <display-name>WIN SPORTS ONLINE HD [DEP-LAT]</display-name>
+    <display-name>WIN SPORTS FHD [DEP-LAT]*</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGMultimedios.cr">
+    <display-name>CRI | MULTIMEDIOS</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGSuperCanal.cr">
+    <display-name>SUPER CANAL [DOM]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTD+2.cr">
+    <display-name>TD+ 2 HD [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTD+.cr">
+    <display-name>TD+ HD [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCanal13.cr">
+    <display-name>CRI | CANAL 13 SD</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGFUTV.cr">
+    <display-name>FUTV Gritalo SD (CR) [DEP-LAT]</display-name>
+    <display-name>FUTV Gritalo FHD [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTeletica7.cr">
+    <display-name>CRI | TELETICA 7 HD</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTeleSur.cr">
+    <display-name>CRI | CANAL 14 TV SUR</display-name>
+    <display-name>CRI | CANAL 14 Tv Sur SD</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTeleuniverso.dr">
+    <display-name>TELEUNIVERSO HD [DOM]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCanaldelSol.dr">
+    <display-name>CANAL DEL SOL HD [DOM]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTelefuturo.dr">
+    <display-name>TELEFUTURO HD [DOM]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGRomanaTV.dr">
+    <display-name>ROMANA TV HD [DOM]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGAme47.dr">
+    <display-name>AMÉ 47 HD [DOM]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTelemicro.dr">
+    <display-name>TELEMICRO HD [DOM]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCDNDeportes.dr">
+    <display-name>CDN SPORTSMAX HD [DOM]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTelesistema.dr">
+    <display-name>TELESISTEMA [DOM]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTeleunion.dr">
+    <display-name>TELEUNION HD [DOM]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCDN37.dr">
+    <display-name>CDN HD [DOM]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGSuperTV55.dr">
+    <display-name>SUPERTV 55 [DOM]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGColorVision.dr">
+    <display-name>COLOR VISIÓN FHD [DOM]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGClaroSports.dr">
+    <display-name>CLARO SPORTS SD [DEP-LAT]</display-name>
+    <display-name>CLARO SPORTS HD [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTeleAntillas.dr">
+    <display-name>TELEANTILLAS HD [DOM]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGLaVozDeMaria.dr">
+    <display-name>LA VOZ DE MARIA [DOM]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGAntenaLatina7.dr">
+    <display-name>ANTENA 7 [DOM]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGRTS.ec">
+    <display-name>ECU | RTS HD+</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTeleamazonas.ec">
+    <display-name>ECU | TELEAMAZONAS HD+</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGOromarTV.ec">
+    <display-name>ECU | OROMAR HD</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTCtv.ec">
+    <display-name>ECU | TC TELEVISION HD+</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCanalUNO.ec">
+    <display-name>ECU | CANAL UNO HD+</display-name>
+    <display-name>CANAL UNO HD [COL]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCanal12.sv">
+    <display-name>SLV | CANAL 12</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCanal2.sv">
+    <display-name>SLV | CANAL 2</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCanal4.sv">
+    <display-name>SLV | CANAL 4</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCanal6.sv">
+    <display-name>SLV | CANAL 6</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCanal10.sv">
+    <display-name>SLV | TVES CANAL 10</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCanal19.sv">
+    <display-name>SLV | MEGAVISION CANAL 19</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCanal21.sv">
+    <display-name>SLV | MEGAVISION CANAL 21</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCanal11.sv">
+    <display-name>SLV | TUTV CANAL 11</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGA+.mx">
+    <display-name>MEX | A Plus</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGadn40.mx">
+    <display-name>MEX | ADN40 HD</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGAnimalPlanet.mx">
+    <display-name>ANIMAL PLANET SD [CULT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGAzCorazon.mx">
+    <display-name>AZTECA CORAZON SD [VAR]</display-name>
+    <display-name>AZTECA CORAZON FHD [VAR]</display-name>
+    <display-name>MEX | AZ Corazon HD</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGAzteca7.mx">
+    <display-name>MEX | Azteca 7 HD</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGBandamax.mx">
+    <display-name>MEX | Bandamax</display-name>
+    <display-name>MEX | Bloomberg HD</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCanal4.mx">
+    <display-name>MEX | Canal 4 HD</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCanal5.mx">
+    <display-name>MEX | Canal 5 HD</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCartoonNetwork.mx">
+    <display-name>CARTOON NETWORK LATINO FHD [INF]</display-name>
+    <display-name>CARTOON NETWORK MX FHD [INF]</display-name>
+    <display-name>CARTOON NETWORK MX SD [INF]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCinemax.mx">
+    <display-name>CINEMAX ACTION FHD (Dual Audio) [P&amp;S]</display-name>
+    <display-name>CINEMAX FHD [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGComedyCentral.mx">
+    <display-name>COMEDY CENTRAL HD+ [P&amp;S]</display-name>
+    <display-name>MEX | Comedy Central HD</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGDiscoveryChannel.mx">
+    <display-name>DISCOVERY CHANNEL SD (MEX) [CULT]</display-name>
+    <display-name>DISCOVERY CHANNEL MX FHD [CULT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGDiscoveryKids.mx">
+    <display-name>DISCOVERY KIDS HD [INF]</display-name>
+    <display-name>DISCOVERY KIDS SD [INF]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGDiscoveryTheater.mx">
+    <display-name>DISCOVERY THEATER SD (MEX) [CULT]</display-name>
+    <display-name>DISCOVERY THEATER MX FHD [CULT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGDiscoveryWorld.mx">
+    <display-name>DISCOVERY WORLD SD (MEX) [CULT]</display-name>
+    <display-name>DISCOVERY WORLD FHD [CULT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGDisneyChannel.mx">
+    <display-name>DISNEY CHANNEL HD [INF]</display-name>
+    <display-name>DISNEY CHANNEL SD [INF]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGDisneyJunior.mx">
+    <display-name>DISNEY JR FHD [INF]</display-name>
+    <display-name>DISNEY JR SD [INF]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGDisneyXD.mx">
+    <display-name>DISNEY XD FHD [INF]</display-name>
+    <display-name>DISNEY XD SD [INF]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGDistritoComedia.mx">
+    <display-name>DISTRITO COMEDIA FHD [P&amp;S]</display-name>
+    <display-name>MEX | Distrito Comedia</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGE!.mx">
+    <display-name>E! ENTERTAINMENT SD [VAR]</display-name>
+    <display-name>E! ENTERTAINMENT FHD [VAR]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGESPN2.mx">
+    <display-name>ESPN 2 SD (MEX) [DEP-LAT]</display-name>
+    <display-name>ESPN HD (MEX) [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGESPN3.mx">
+    <display-name>ESPN 3 SD (MEX) [DEP-LAT]</display-name>
+    <display-name>ESPN 3 HD (MEX) [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGElGourmet.mx">
+    <display-name>EL GOURMET MX SD [VAR]</display-name>
+    <display-name>EL GOURMET FHD [VAR]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGEuropaEuropa.mx">
+    <display-name>EUROPA EUROPA SD [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGfilm&amp;arts.mx">
+    <display-name>FILM &amp; ARTS SD [P&amp;S]</display-name>
+    <display-name>FILM &amp; ARTS FHD [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGFOROtv.mx">
+    <display-name>MEX | Foro TV HD</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGFOXChannel.mx">
+    <display-name>STAR CHANNEL SD [P&amp;S]</display-name>
+    <display-name>STAR CHANNEL FHD [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGFOXLife.mx">
+    <display-name>STAR LIFE SD [P&amp;S]</display-name>
+    <display-name>STAR LIFE FHD [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGFOXSports.mx">
+    <display-name>FOX SPORTS SD (MEX) [DEP-LAT]</display-name>
+    <display-name>FOX SPORTS 1 MX FHD [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGFOXSports2.mx">
+    <display-name>FOX SPORTS 2 SD (MEX) [DEP-LAT]</display-name>
+    <display-name>FOX SPORTS 2 MX FHD [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGFOXSports3.mx">
+    <display-name>FOX SPORTS 3 MX FHD [DEP-LAT]</display-name>
+    <display-name>FOX SPORTS 3 SD (MEX) [M-SPORT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGFX.mx">
+    <display-name>FX SD [P&amp;S]</display-name>
+    <display-name>FX FHD [P&amp;S]</display-name>
+    <display-name>FXM FHD [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGFXMovies.mx">
+    <display-name>FXM SD [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGGlitz.mx">
+    <display-name>GLITZ SD [VAR]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGGoldenEdge.mx">
+    <display-name>GOLDEN EDGE SD [P&amp;S]</display-name>
+    <display-name>GOLDEN EDGE FHD [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGHBO.mx">
+    <display-name>HBO SD [P&amp;S]</display-name>
+    <display-name>HBO FHD (Dual Audio) [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGHBO2.mx">
+    <display-name>HBO 2 SD (Dual Audio) [P&amp;S]</display-name>
+    <display-name>HBO 2 FHD (Dual Audio) [P&amp;S]</display-name>
+    <display-name>HBO FHD (Subtitulado) [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGHBOFamily.mx">
+    <display-name>HBO FAMILY SD (Dual Audio) [P&amp;S]</display-name>
+    <display-name>HBO FAMILY FHD (Dual Audio) [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGHBOPlusMexico.mx">
+    <display-name>HBO+ SD [P&amp;S]</display-name>
+    <display-name>HBO+ FHD (Dual Audio) [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGHistory.mx">
+    <display-name>HISTORY SD [CULT]</display-name>
+    <display-name>HISTORY FHD [CULT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGI-SAT.mx">
+    <display-name>I-SAT SD [P&amp;S]</display-name>
+    <display-name>I-SAT HD [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGInvestigationDiscovery.mx">
+    <display-name>INVESTIGATION DISCOVERY SD (MEX) [CULT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGLasEstrellas.mx">
+    <display-name>LAS ESTRELLAS SD [VAR]</display-name>
+    <display-name>LAS ESTRELLAS FHD [VAR]</display-name>
+    <display-name>MEX | Canal de las Estrellas HD</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGMuchMusic.mx">
+    <display-name>MUCH MUSIC HD [MUSICALES]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGMTV.mx">
+    <display-name>MTV FHD [MUSICALES]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGNationalGeographic.mx">
+    <display-name>NAT GEO MX SD [CULT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGNatGeoWild.mx">
+    <display-name>NAT GEO WILD SD (MEX) [CULT]</display-name>
+    <display-name>NAT GEO WILD FHD [CULT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGNick.mx">
+    <display-name>NICKELODEON SD [INF]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGNick2.mx">
+    <display-name>NICK 2 FHD [INF]</display-name>
+    <display-name>NICK 2 SD [INF]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGNickJr.mx">
+    <display-name>NICK JR HD [INF]</display-name>
+    <display-name>NICK JR SD [INF]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGSpace.mx">
+    <display-name>SPACE SD [P&amp;S]</display-name>
+    <display-name>SPACE FHD [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGSony.mx">
+    <display-name>SONY SD [P&amp;S]</display-name>
+    <display-name>SONY CHANNEL FHD [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGStudioUniversal.mx">
+    <display-name>STUDIO UNIVERSAL SD [P&amp;S]</display-name>
+    <display-name>STUDIO UNIVERSAL FHD [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGSyfy.mx">
+    <display-name>SYFY SD [P&amp;S]</display-name>
+    <display-name>SYFY FHD (Dual Audio) [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTBS.mx">
+    <display-name>TBS SD [P&amp;S]</display-name>
+    <display-name>TBS HD (Dual Audio) [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTCM.mx">
+    <display-name>TCM SD [P&amp;S]</display-name>
+    <display-name>TCM HD [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTelehit.mx">
+    <display-name>TELEHIT HD [MUSICALES]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTLNovelas.mx">
+    <display-name>TELENOVELAS SD [VAR]</display-name>
+    <display-name>TELENOVELAS FHD [VAR]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTNT.mx">
+    <display-name>TNT SD [P&amp;S]</display-name>
+    <display-name>TNT FHD (Dual Audio) [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTooncast.mx">
+    <display-name>TOONCAST HD [INF]</display-name>
+    <display-name>TOONCAST SD [INF]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGUniversalTV.mx">
+    <display-name>UNIVERSAL CHANNEL SD [P&amp;S]</display-name>
+    <display-name>UNIVERSAL CHANNEL FHD (Dual Audio) [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGVH1.mx">
+    <display-name>VH1 FHD [MUSICALES]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGWarnerChannel.mx">
+    <display-name>WARNER CHANNEL SD [P&amp;S]</display-name>
+    <display-name>WARNER CHANNEL FHD (Dual Audio) [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGNicktoons.mx">
+    <display-name>NICKTOONS SD [INF]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGParamountNetwork.mx">
+    <display-name>PARAMOUNT NETWORK FHD (Dual Audio) [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGbitMe.mx">
+    <display-name>MEX | BIT ME FHD</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGHistory2.mx">
+    <display-name>H2 SD [CULT]</display-name>
+    <display-name>H2 FHD [CULT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTVCDeportes.mx">
+    <display-name>TVC DEPORTES SD (MEX) [DEP-LAT]</display-name>
+    <display-name>TVC DEPORTES HD+ [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGHBOSignature.mx">
+    <display-name>HBO SIGNATURE SD (Dual Audio) [P&amp;S]</display-name>
+    <display-name>HBO SIGNATURE FHD [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGHBOXtreme.mx">
+    <display-name>HBO XTREME SD (Dual Audio) [P&amp;S]</display-name>
+    <display-name>HBO XTREME FHD (Dual Audio) [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGHBOPOP.mx">
+    <display-name>HBO POP SD (Dual Audio) [P&amp;S]</display-name>
+    <display-name>HBO POP FHD (DualAudio) [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGHBOMUNDI.mx">
+    <display-name>HBO Mundi SD [P&amp;S]</display-name>
+    <display-name>HBO MUNDI FHD (Dual Audio) [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGGoldenPlus.mx">
+    <display-name>GOLDEN PLUS SD [P&amp;S]</display-name>
+    <display-name>GOLDEN SD [P&amp;S]</display-name>
+    <display-name>GOLDEN FHD [P&amp;S]</display-name>
+    <display-name>GOLDEN PLUS FHD (Dual Audio) [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGGoldenPremier.mx">
+    <display-name>GOLDEN PREMIER SD [P&amp;S]</display-name>
+    <display-name>GOLDEN PREMIER HD+ [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGAztecaClic.mx">
+    <display-name>MEX | Az Click</display-name>
+    <display-name>MEX | AZ Click | op2</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGCNNInternational.mx">
+    <display-name>CNN International</display-name>
+    <display-name>MEX | CNN International</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGBabyTV.mx">
+    <display-name>BABY TV LA HD [INF]</display-name>
+    <display-name>BABY TV LA SD [INF]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGFoodNetwork.mx">
+    <display-name>FOOD NETWORK SD [VAR]</display-name>
+    <display-name>FOOD NETWORK FHD [VAR]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGHolaTV.mx">
+    <display-name>HOLA TV SD [VAR]</display-name>
+    <display-name>HOLA TV FHD [VAR]</display-name>
+    <display-name>MEX | Hola TV HD</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGMultimedios.mx">
+    <display-name>MULTIMEDIOS FHD [P&amp;S]</display-name>
+    <display-name>MEX | Multimedios HD</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGDiscoveryTurbo.mx">
+    <display-name>DISCOVERY TURBO SD (MEX) [CULT]</display-name>
+    <display-name>DISCOVERY TURBO FHD [CULT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTLC.mx">
+    <display-name>TLC SD (MEX) [CULT]</display-name>
+    <display-name>TLC MX FHD [CULT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTNTSeries.mx">
+    <display-name>TNT SERIES SD [P&amp;S]</display-name>
+    <display-name>TNT SERIES FHD (Dual Audio) [P&amp;S]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGMundo.mx">
+    <display-name>AZTECA MUNDO SD [VAR]</display-name>
+    <display-name>AZTECA MUNDO FHD [VAR]</display-name>
+    <display-name>MEX | AZ Mundo HD</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGLifetime.mx">
+    <display-name>LIFETIME SD [VAR]</display-name>
+    <display-name>LIFETIME FHD [VAR]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGMTVLive.mx">
+    <display-name>MTV LIVE FHD [MUSICALES]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGTelehitPlus.mx">
+    <display-name>TELEHIT PLUS FHD [MUSICALES]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGMTVHits.mx">
+    <display-name>MTV HITS HD [MUSICALES]</display-name>
+    <display-name>MTV HITS HD [USA-PREMIUM]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGASN.mx">
+    <display-name>ADRENALINA SPORTS NETWORK FHD [DEP-LAT]</display-name>
+    <icon src=""></icon>
+  </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGAYMSports.mx">
+    <dis
